@@ -896,7 +896,7 @@ a {
     vertical-align: middle
 }
 
-.card-product__imgOverlay li button:hover {
+.card-product__imgOverlay li button:active {
     background: #799E00
 }
 
@@ -5084,7 +5084,7 @@ h3 {
     font-size: 16px;
     letter-spacing: -1.5px;
     margin-top: 5px;
-    margin-left: 35px;
+    /* margin-left: 35px; */
 }
 
 #fps {

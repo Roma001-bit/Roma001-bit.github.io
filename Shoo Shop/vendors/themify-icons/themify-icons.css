@@ -65,6 +65,10 @@
 .ti-shopping-cart:before {
 	content: "\e60d";
 }
+.ti-shopping-cart .mystyle:before {
+	content: "\e655";
+}
+
 .ti-shopping-cart-full:before {
 	content: "\e60e";
 }
